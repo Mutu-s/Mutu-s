@@ -51,6 +51,10 @@ Avail - Ar.io - Voi - Powerloom - Webb - Selfchain - Archway - Peaq - Subspace -
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muutu-s&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mutu-s/Mutu-s/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mutu-s/Mutu-s/output/github-contribution-grid-snake.svg">
