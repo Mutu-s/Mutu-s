@@ -5,23 +5,14 @@
   <h3>🚀 Building the future of Web3, one block at a time</h3>
   
   <p>
-    <a href="https://www.github.com/Mutu-S" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.twitter.com/mutu0x" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <a href="https://www.twitter.com/0xhubxyz" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="X" />
     </a>
     <a href="https://medium.com/@0xmutu" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
     </a>
-    <a href="https://discord.gg/vB7FuGydDu" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-    </a>
     <a href="https://t.me/fmutu" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://mutuecosystem.xyz/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white" alt="Website" />
     </a>
     <a href="https://www.0xhub.xyz/" target="_blank">
       <img src="https://img.shields.io/badge/0xHub-FF6B6B?style=flat-square&logo=link&logoColor=white" alt="0xHub" />
@@ -171,27 +162,20 @@ Ar.io, Powerloom, Webb, Selfchain, Peaq, Subspace, Massa, Espresso, Timpi, C4E, 
   
   <p>Feel free to reach out for collaborations, discussions, or just to say hi! 👋</p>
   
-  <a href="https://www.github.com/Mutu-S" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.twitter.com/mutu0x" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://medium.com/@0xmutu" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://discord.gg/vB7FuGydDu" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://t.me/fmutu" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://mutuecosystem.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.0xhub.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/0xHub-FF6B6B?style=for-the-badge&logo=link&logoColor=white" alt="0xHub" />
-  </a>
+  <p>
+    <a href="https://www.twitter.com/0xhubxyz" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="X" />
+    </a>
+    <a href="https://medium.com/@0xmutu" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://t.me/fmutu" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://www.0xhub.xyz/" target="_blank">
+      <img src="https://img.shields.io/badge/0xHub-FF6B6B?style=flat-square&logo=link&logoColor=white" alt="0xHub" />
+    </a>
+  </p>
   
 </div>
 
