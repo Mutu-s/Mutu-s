@@ -129,17 +129,6 @@ I enjoy driving the M3 - it feels good to be on fire all the time! 🔥
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mutu-s&show_icons=true&theme=gradient&include_all_commits=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api?username=Mutu-s&show_icons=true&theme=radical&layout=compact&langs_count=8)
-  
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <picture>
@@ -155,22 +144,27 @@ I enjoy driving the M3 - it feels good to be on fire all the time! 🔥
 <div align="center">
   
   <a href="https://medium.com/@0xmutu" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/medium.svg" width="40" height="40" alt="Medium" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="48" height="48" alt="Medium" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.github.com/Mutu-S" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="48" height="48" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.twitter.com/mutu0x" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" alt="Twitter" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="48" height="48" alt="Twitter" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://discord.gg/vB7FuGydDu" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" width="40" height="40" alt="Discord" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="48" height="48" alt="Discord" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://mutuecosystem.xyz/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mutu-s/Mutu-Tea/main/world-wide-web%20(1).png" width="40" height="40" alt="Website" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetarchive.svg" width="48" height="48" alt="Website" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.0xhub.xyz/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Mutu-s/Mutu-Tea/main/world-wide-web%20(1).png" width="40" height="40" alt="0xHub" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chainlink.svg" width="48" height="48" alt="0xHub" />
   </a>
   
 </div>
