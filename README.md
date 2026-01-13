@@ -73,7 +73,7 @@
 <p align="left">
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -120,24 +120,32 @@
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutu-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutu-s&layout=compact&langs_count=8&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mutu-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutu-s&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mutu-s&theme=tokyonight&border_radius=5)
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=Mutu-s&theme=tokyonight&border_radius=5"/>
+  
+</div>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mutu-s&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Mutu-s&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+  
 </div>
 
 ---
 
 ## 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mutu-s/Mutu-s/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mutu-s/Mutu-s/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mutu-s/Mutu-s/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Mutu-s/Mutu-s/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;" />
+  
+</div>
 
 ---
 
