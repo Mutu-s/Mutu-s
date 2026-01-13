@@ -163,9 +163,6 @@ Ar.io, Powerloom, Webb, Selfchain, Peaq, Subspace, Massa, Espresso, Timpi, C4E, 
     <a href="https://www.twitter.com/0xhubxyz" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
     </a>
-    <a href="https://medium.com/@0xmutu" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
-    </a>
     <a href="https://t.me/fmutu" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
