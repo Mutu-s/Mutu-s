@@ -2,10 +2,25 @@
   
   # 👋 Hi there, I'm Fatih - aka Mutu
   
-  <i>Blockchain Researcher | Node Runner | Validator | Web3 Enthusiast</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Blockchain+Researcher+🔬;Node+Runner+⚡;Validator+🛡️;Web3+Enthusiast+🚀;" />
   
   <p>
     <i>This is the place where I opensource stuff and break things 🤣</i>
+  </p>
+  
+  <p>
+    <a href="https://www.github.com/Mutu-S">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.twitter.com/mutu0x">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://medium.com/@0xmutu">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://discord.gg/vB7FuGydDu">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
   </p>
   
 </div>
@@ -14,11 +29,25 @@
 
 ## 👨‍💻 About Me
 
-I am a **cryptocurrency researcher** and blockchain enthusiast passionate about exploring the depths of the crypto world. I actively work as a **Node Runner** and **Validator**, contributing to improving the security and functionality of blockchain networks.
-
-Through **[0xHub](https://www.0xhub.xyz/)**, we provide **enterprise-grade validator services** as a multichain staking provider, offering robust infrastructure and staking services across **20+ different blockchain networks**.
+<div align="center">
+  
+  I am a **cryptocurrency researcher** and blockchain enthusiast passionate about exploring the depths of the crypto world. I actively work as a **Node Runner** and **Validator**, contributing to improving the security and functionality of blockchain networks.
+  
+  Through **[0xHub](https://www.0xhub.xyz/)**, we provide **enterprise-grade validator services** as a multichain staking provider, offering robust infrastructure and staking services across **20+ different blockchain networks**.
+  
+</div>
 
 ### 🎯 What I Do
+
+<div align="center">
+  
+  ![Research](https://img.shields.io/badge/Research-🔬-blue?style=flat-square)
+  ![Node Operations](https://img.shields.io/badge/Node_Operations-⚡-green?style=flat-square)
+  ![Validation](https://img.shields.io/badge/Validation-🛡️-red?style=flat-square)
+  ![Learning](https://img.shields.io/badge/Learning-🌱-yellow?style=flat-square)
+  ![Collaboration](https://img.shields.io/badge/Collaboration-👯-purple?style=flat-square)
+  
+</div>
 
 - 🔬 **Research**: Diving deep into blockchain technology and understanding innovative crypto projects
 - ⚡ **Node Operations**: Running and maintaining blockchain nodes for various networks
@@ -28,13 +57,13 @@ Through **[0xHub](https://www.0xhub.xyz/)**, we provide **enterprise-grade valid
 
 ### 🎯 2024 Goals
 
-- Learn more about Web3 and blockchain infrastructure
-- Expand validator services across new networks
-- Contribute to open-source blockchain projects
+- 🎓 Learn more about Web3 and blockchain infrastructure
+- 🌐 Expand validator services across new networks
+- 💻 Contribute to open-source blockchain projects
 
 ### ⚡ Fun Fact
 
-I enjoy driving the M3 - it feels good to be on fire all the time! 🔥
+> I enjoy driving the M3 - it feels good to be on fire all the time! 🔥
 
 ---
 
@@ -43,6 +72,8 @@ I enjoy driving the M3 - it feels good to be on fire all the time! 🔥
 <div align="center">
   
   ### [0xHub](https://www.0xhub.xyz/) - Enterprise-Grade Multichain Staking Provider
+  
+  ![0xHub](https://img.shields.io/badge/0xHub-Enterprise_Validator-FF6B6B?style=for-the-badge&logo=link&logoColor=white)
   
   *Providing robust infrastructure and staking services across 20+ blockchain networks*
   
@@ -58,11 +89,20 @@ I enjoy driving the M3 - it feels good to be on fire all the time! 🔥
   <br>
   
   ### 🌐 Layer 1 & Layer 2 Blockchains
+  
+  ![Monad](https://img.shields.io/badge/Monad-000000?style=flat-square&logo=ethereum&logoColor=white)
+  ![Avail](https://img.shields.io/badge/Avail-000000?style=flat-square)
+  ![Archway](https://img.shields.io/badge/Archway-000000?style=flat-square)
+  ![Aptos](https://img.shields.io/badge/Aptos-000000?style=flat-square&logo=aptos&logoColor=white)
+  ![Sui](https://img.shields.io/badge/Sui-000000?style=flat-square)
+  ![Celestia](https://img.shields.io/badge/Celestia-000000?style=flat-square)
+  
   - **Monad**, Avail, Archway, Aptos, Sui, Celestia, Dymension RollApp, Q Blockchain, Sei, Kujira, Paloma, Quicksilver, Stride, Stratos, Ziesha, Defund Finance, Nibiru, Ironfish, Dusk, Minima, Gitopia, Teritori, Stafi, Humanode, Neutron, Inery, Lumoz, Vinuechain, Juneo, Shardeum, Wormholes
   
   ### 🔧 Infrastructure & Tools
-  - Ar.io, Powerloom, Webb, Selfchain, Peaq, Subspace, Massa, Espresso, Timpi, C4E, Naruno, Sarcophagus, Subsquid, Mantra, Kenshi, bEVM fullnode, Sentiment, Mangata, Ferrum Network, Exorde, Mason Network, Empowerchain, Fleek, Forta, PowerAgent, Voi
   
+  - Ar.io, Powerloom, Webb, Selfchain, Peaq, Subspace, Massa, Espresso, Timpi, C4E, Naruno, Sarcophagus, Subsquid, Mantra, Kenshi, bEVM fullnode, Sentiment, Mangata, Ferrum Network, Exorde, Mason Network, Empowerchain, Fleek, Forta, PowerAgent, Voi
+
 </details>
 
 ---
@@ -71,156 +111,86 @@ I enjoy driving the M3 - it feels good to be on fire all the time! 🔥
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" title="PHP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  </a>
-</p>
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  
+</div>
 
 ### 🎨 Frontend Development
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://angular.io" target="_blank" title="Angular">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" title="SASS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-  </a>
-</p>
+<div align="center">
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
+</div>
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" title="Express">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://redis.io" target="_blank" title="Redis">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" title="SQLite">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" title="GraphQL">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/>
-  </a>
-</p>
+<div align="center">
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  
+</div>
 
 ### ☁️ DevOps & Cloud
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" title="Kubernetes">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" title="AWS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" title="Azure">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" title="Google Cloud">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" title="Nginx">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>
-  </a>
-</p>
+<div align="center">
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  
+</div>
 
 ### 📊 Monitoring & Testing
 
-<p align="left">
-  <a href="https://grafana.com" target="_blank" title="Grafana">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/>
-  </a>
-  <a href="https://www.elastic.co" target="_blank" title="Elasticsearch">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="50" height="50"/>
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" title="Kibana">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="50" height="50"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" title="Jest">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" title="Cypress">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50"/>
-  </a>
-  <a href="https://mochajs.org" target="_blank" title="Mocha">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" title="Selenium">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/>
-  </a>
-</p>
+<div align="center">
+  
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+  ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  
+</div>
 
 ### 🔧 Other Tools
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://postman.com" target="_blank" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" title="Jenkins">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
-  </a>
-  <a href="https://circleci.com" target="_blank" title="CircleCI">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="50" height="50"/>
-  </a>
-  <a href="https://travis-ci.org" target="_blank" title="Travis CI">
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="50" height="50"/>
-  </a>
-</p>
+<div align="center">
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+  ![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
+  
+</div>
 
 ---
 
