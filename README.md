@@ -120,21 +120,13 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mutu-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutu-s&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutu-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutu-s&layout=compact&langs_count=8&theme=tokyonight)
 
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Mutu-s&theme=tokyonight&border_radius=5)
-  
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Mutu-s&theme=tokyonight&border_radius=5)
 
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mutu-s&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mutu-s&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 </div>
 
 ---
